@@ -1,17 +1,18 @@
 ### Hi there 👋, my name is Wisam
 #### Web Developer
-I am Wisam Nawas from Canada, and I am Web Developer. I enjoy learning coding languages and frameworks like JavaScript and React, as well as work in WordPress.
+I am Wisam Nawas from Canada, and I am Web Developer. I enjoy learning and coding in languages and frameworks like JavaScript and React, as well as work in WordPress.
 
 ## Skills and Experience
 * ⚛ React
 * 🐍 Python
 * 💻HTML, CSS, Java,
-* ![image](https://github.com/Wisam-Nawas/Wisam-N/assets/147668731/afe8985e-d87e-481b-a556-a00341fdde1b) SQL
-* 
+* 🔌SQL
 
 Skills: REACT / JS / Java / HTML / CSS / SQL / Python / Assembly Language 
 
-- 🔭 I’m currently working on An E-commerce Website 
+- 🎓 I’m a graduate from Algoma university
+-  📫 How to reach me: nawaswisam@gmail.com
+-  🔭 I’m currently working on An E-commerce Website
 - ⚡ Fun fact: Footballer ⚽ 
 
 
