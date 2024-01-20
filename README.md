@@ -11,7 +11,7 @@ I am Wisam Nawas from Canada, and I am Web Developer. I enjoy learning and codin
 Skills: REACT / JS / Java / HTML / CSS / SQL / Python / Assembly Language 
 
 - 🎓 I’m a graduate from Algoma university
--  📫 How to reach me: nawaswisam@gmail.com
+-  📫 How to reach me --> nawaswisam@gmail.com
 -  🔭 I’m currently working on An E-commerce Website
 - ⚡ Fun fact: Footballer ⚽ 
 
